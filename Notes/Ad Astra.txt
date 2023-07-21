@@ -1,0 +1,32 @@
+Материалы:
+
+calorite - Калорит
+desh - Деш
+ice_shard - Ледяные осколки
+ostrum - Острум
+
+
+Предметы:
+
+block - Блок X
+pillar - Колонна из X
+cable - Кабель из X
+fluid_pipe - Жидкостная труба из X
+door - Дверь из X
+pillar - Колонна из листовой обшивки (X)
+plating - Листовая обшивка из X
+plating_button - Кнопка из листовой обшивки (X)
+plating_pressure_plate - Нажимная плита из листовой обшивки (X)
+plating_slab - Плита из листовой обшивки (X)
+plating_stairs - Ступеньки из листовой обшивки (X)
+plating_wall - Ограда из листовой обшивки (X)
+sliding_door - Раздвижная дверь из X
+trapdoor - Люк из X
+
+
+
+Снаряжение:
+
+space_suit - Космический скафандр
+netherite_space_suit - Укреплённый скафандр
+jet_suit - Реактивный скафандр

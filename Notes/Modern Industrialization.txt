@@ -1,0 +1,190 @@
+Уровни Энергии:
+
+Low Voltage (LV) - Низкое Напряжение
+Medium Voltage (MV) - Среднее Напряжение
+High Voltage (HV) - Высокое Напряжение
+Extreme Voltage (EV) - Предельное Напряжение
+Superconductor - Сверхпроводниковое Напряжение
+
+-Примеры:
+-- Шлюз ввода энергии Высокого Напряжения
+-- Трансформатор от Высокого до Предельного Напряжения
+-- Паровая турбина Среднего Напряжения
+-- Накопитель Сверхпроводникового Напряжения
+
+
+
+Уровни машин (обшивок):
+
+Bronze - Бронзовый (бронза)
+Steel - Стальной (сталь)
+Basic - Базовый (электричество)
+Advanced - Продвинутый (алюминий)
+Turbo - Передовой (нержавейка)
+Highly Advanced - Высокотехнологичный (титан)
+Quantum - Квантовый (иридий)
+
+-Примеры:
+-- Передовой шлюз ввода Предметов / Жидкостей
+-- Стальная станковая обшивка для труб
+
+
+
+Блоки:
+
+barrel:
+ - Бочка из X (всегда)
+ - X бочка (исключение)
+ 
+tank:
+ - Бак из X (всегда)
+ - X бак (исключение)
+
+casing:
+ - X обшивка (уровень)
+ - Обшивка из X (материал)
+ 
+machine casing:
+ - X станковая обшивка (уровень)
+ - Станковая обшивка из X (материал)
+ 
+machine casing pipe:
+ - X станковая обшивка для труб (уровень)
+ - Станковая обшивка для труб из X (материал)
+ 
+machine hull - X станковый корпус
+
+X_block - Блок X
+X_ore - Руда Х
+nether_X_ore - Незерская руда X
+deepslate_X_ore - Глубинная руда X
+raw_X_block - Блок рудного X
+
+molten - Расплавленный X
+
+
+
+
+
+Предметы:
+
+battery - Батарея из X
+control rod - Регулирующий стержень из X
+crushed dust - Дроблёный X
+blade - Лопасть из X
+bolt - Болт из X
+cable - Кабель из X
+curved plate - Изогнутая пластина X
+double ingot - Двойной слиток X
+drill - Забурник из X
+drill head - Головка забурника из X
+dust - Пыль X
+fine wire - Проволока из X
+gear - Шестерня из X
+hot ingot - Горячий слиток X
+ingot - Слиток X
+large plate - Плита X
+mixed ingot - Смешанный слиток для X
+molten - Расплавленный X
+nugget - Кусочек X
+plate - Пластина X
+ring - Кольцо из X
+rod - Стержень из X
+rotor - Ротор из X
+rotary blade - Режущий диск из X
+tiny dust - Пылинка X
+wire - Провод из X
+
+silicon_n_doped_plate - Донор-легированная пластина из кремния
+silicon_p_doped_plate - Акцептор-легированная пластина из кремния
+
+
+
+Материалы:
+
+Aluminium - Алюминий
+Annealed Copper - Калёная медь
+Antimony - Сурьма
+Battery Alloy - Батарейный сплав
+Bauxite - Боксит
+Beryllium - Бериллий
+Blastproof Alloy - Взрывостойкий сплав
+Brick - Кирпич
+Bronze - Бронза
+Cadmium - Кадмий
+Calorite - Калорит
+Carbon - Углерод (пыль) / Углепластик (пластина)
+Chromium - Хром
+Coal - Уголь
+Сoke - Кокс
+Compactium - Компактум
+Copper - Медь
+Cupronickel - Купроникель
+Desh - Деш
+Diamond - Алмаз
+Electrum - Электрум
+Elementium - Элементий
+Emerald - Изумруд
+Fire Clay Brick - Огнеупорный Кирпич
+Gold - Золото
+Invar - Инвар
+Iridium - Иридий
+Iron - Железо
+Kanthal - Фехраль
+Lapis - Лазурит
+Lead - Свинец
+Lignite Coal - Бурый уголь
+Manasteel - Манасталь
+Manganese - Марганец
+Mozanite - Мозанит
+Neodymium - Неодим
+Netherite - Незерит
+Nickel - Никель
+Nuclear Alloy - Ядерный сплав
+Ostrum - Острум
+Platinum - Платина
+Plutonium - Плутоний
+Quartz - Кварц
+Redstone - Редстоун
+Rocket Alloy - Ракетный сплав
+Rubber - Резина
+Ruby - Рубин
+Salt - Соль
+Silicon - Кремний
+Silver - Серебро
+Sodium - Натрий
+Soldering Alloy - Припой
+Stainless Steel - Нержавеющая сталь
+Steel - Сталь
+Sulfur - Сера
+Superconductor - Сверхпроводник
+Terrasteel - Террасталь
+Tin - Олово
+Titanium - Титан
+Tungsten - Вольфрам
+Unobtanium - Недостижинум (mod Architects Palette)
+Uranium - Уран
+MOX - МОКС-топливо
+HE - Высокообогащённый
+LE - Низкообогащённый
+Yttrium - Иттрий
+
+
+
+Жидкости:
+
+Heavy Water - Оксид дейтерия (тяжёлая вода)
+Styrene Butadiene - Сополимер бутадиен-стирола
+Styrene Butadiene Rubber - Бутадиен-стирольный каучук
+
+
+
+Теги: (не готово)
+
+Blocks - Блоки
+Dusts - Пыль
+Gears - Шестерни
+Ingots - Слитки
+Nuggets - Кусочки
+Plates - Пластины
+Tiny Dusts - Пылинки

@@ -1,0 +1,26 @@
+ME Network ->
+Matter Energy Network ->
+Материально-Энергетическая Сеть ->
+МЭ Сеть
+
+
+
+Туннели точка-точка:
+
+me p2p tunnel - Туннель точка-точка для МЭ сети
+redstone p2p tunnel - Туннель точка-точка для редстоуна
+item p2p tunnel - Туннель точка-точка для предметов
+fluid p2p tunnel - Туннель точка-точка для жидкостей
+fe p2p tunnel - Туннель точка-точка для энергии
+light p2p tunnel - Туннель точка-точка для света
+mana p2p tunnel - Туннель точка-точка для маны
+
+
+
+Кабели:
+
+fluix glass cable - Флюксовый стеклянный кабель
+fluix covered cable - Флюксовый покрытый кабель
+fluix smart cable - Флюксовый умный кабель
+fluix covered dense cable - Флюксовый плотный кабель
+fluix smart dense cable - Флюксовый умный плотный кабель
