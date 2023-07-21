@@ -1,0 +1,8 @@
+{
+  "javd.invalid.world": "Ошибка нахождения мира '%s'",
+  "javd.invalid.pos": "Ошибка определения местоположения портала",
+  "block.javd.portal_block" : "Пустотный портал",
+  "block.javd.void_portal_block" : "Пустотный портал",
+  "biome.javd.void" : "Пустота",
+  "block.javd.void_portal_block.name" : "Пустотный портал"
+}
