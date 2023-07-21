@@ -1589,7 +1589,7 @@
   "text.modern_industrialization.BaseEuRecipe": "Базовый рецепт: %s",
   "text.modern_industrialization.BaseEuTotal": "Всего: %s",
   "text.modern_industrialization.BaseEuTotalStored": "Суммарно содержит: %s",
-  "text.modern_industrialization.Blacklist": "Режим чёрного списка.",
+  "text.modern_industrialization.Blacklist": "Режим чёрного списка",
   "text.modern_industrialization.BookSubtitle": "Технология для начинающих",
   "text.modern_industrialization.Both": "Оба",
   "text.modern_industrialization.CableTierEV": "Предельное напряжение",
