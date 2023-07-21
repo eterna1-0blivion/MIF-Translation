@@ -1,0 +1,25 @@
+{
+  "block.extended_drawers.double_drawer": "Двойной ящик",
+  "block.extended_drawers.quad_drawer": "Квадра ящик",
+  "block.extended_drawers.single_drawer": "Ящик",
+  "block.extended_drawers.shadow_drawer": "Теневой ящик",
+  "block.extended_drawers.access_point": "Точка доступа к ящику",
+  "block.extended_drawers.connector": "Соединитель ящиков",
+
+  "item.extended_drawers.t1_upgrade": "Улучшение ящика I",
+  "item.extended_drawers.t2_upgrade": "Улучшение ящика II",
+  "item.extended_drawers.t3_upgrade": "Улучшение ящика III",
+  "item.extended_drawers.t4_upgrade": "Улучшение ящика IV",
+  "item.extended_drawers.downgrade": "Понижение уровня ящика",
+  "item.extended_drawers.creative_upgrade": "Творческое улучшение ящика",
+  "item.extended_drawers.upgrade_frame": "Рамка улучшения",
+  "item.extended_drawers.lock": "Замок ящика",
+
+  "tooltip.extended_drawers.drawer_contents": "Содержит:",
+  "itemGroup.extended_drawers.main": "Extended Drawers",
+  "extended_drawer.drawer.upgrade_fail": "Не возможно изменить улучшение; слишком много предметов.", 
+
+  "book.extended_drawers.guide.name": "Extending Drawers",
+  "book.extended_drawers.guide.landing_text": "Это руководство проведёт вас через все шаги для построения огромной системы хранения используя ящики, а также о том, как работает каждый элемент и блок в моде.",
+  "book.extended_drawers.guide.subtitle": "Version 1.3.10"
+}

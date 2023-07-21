@@ -1,0 +1,26 @@
+{
+  "itemGroup.travelstaff": "Якоря перемещения",
+
+  "item.travelstaff.travel_staff": "Посох перемещения",
+
+  "enchantment.travelstaff.range": "Расстояние",
+  "enchantment.travelstaff.teleportation": "Телепортация",
+
+  "block.travelstaff.travel_anchor": "Якорь перемещения",
+
+  "screen.travelstaff.travel_anchor": "Якорь перемещения",
+  "screen.travelstaff.search": "Поиск",
+  "screen.travelstaff.nameless": "Введите имя, чтобы использовать",
+
+  "tooltip.travelstaff.travel_anchor_block": "Посмотрите на этот блок с помощью посоха перемещения, или при помощи зачарования телепортации, чтобы телепортироваться на этот блок",
+  "tooltip.travelstaff.travel_staff": "Shift + ПКМ для телепортации на короткую дистанцию. Или просто ПКМ для телепортации на якорь.",
+
+  "travelstaff.tp.success": "Телепортирован к %s.",
+  "travelstaff.tp.fail": "Якорь перемещения не найден.",
+  "travelstaff.hop.fail": "Пункт назначения заблокирован.",
+
+  "enchantment.travelstaff.teleportation.desc": "Позволяет вам телепортироваться так, как будто вы держите в руках посох путешествия.",
+  "enchantment.travelstaff.range.desc": "Увеличивает расстояние, на которое вы можете телепортироваться с помощью посоха перемещения."
+}
+
+
