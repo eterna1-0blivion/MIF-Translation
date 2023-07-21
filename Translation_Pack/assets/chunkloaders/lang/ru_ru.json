@@ -1,17 +1,4 @@
 {
-  "chunkloaders.block.single_chunk_loader": "Загрузчик одного чанка",
-  "chunkloaders.block.basic_chunk_loader": "Классический загрузчик чанков",
-  "chunkloaders.block.advanced_chunk_loader": "Улучшенный загрузчик чанков",
-  "chunkloaders.block.ultimate_chunk_loader": "Ультимейтный загрузчик чанков",
-  "chunkloaders.gui.loaded": "ЗАГРУЖАТЬ",
-  "chunkloaders.gui.unloaded": "НЕ ЗАГРУЖАТЬ",
-  "chunkloaders.gui.narrate_loaded": "Чанк загружен",
-  "chunkloaders.gui.narrate_unloaded": "Чанк не загружен",
-  "chunkloaders.chunk_loader.info.single": "Загружает один чанк",
-  "chunkloaders.chunk_loader.info.multiple": "Загружает местность %1$d на %1$d чанков",
-  "chunkloaders.gui.owner": "Владелец:",
-  "chunkloaders.gui.title": "Экран загрузчика чанков",
-  "chunkloaders.gui.loaded_chunks": "Загружено:",
-  "chunkloaders.gui.chunk.loaded": "Загружен",
-  "chunkloaders.gui.chunk.available": "Нажмите чтобы загрузить"
+  "block.simplechunkloader.chunkloader": "Загрузчик Чанков",
+  "item.simplechunkloader.world": "World Icon"
 }

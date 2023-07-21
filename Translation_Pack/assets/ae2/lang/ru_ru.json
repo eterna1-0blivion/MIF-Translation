@@ -721,15 +721,5 @@
   "waila.ae2.P2PUnlinked": "Не сопряжённый",
   "waila.ae2.Showing": "Показ",
   "waila.ae2.Stored": "Хранится: %s / %s",
-  "waila.ae2.Unlocked": "Разблокировано",
-
-  "block.ae2.small_quartz_bud": "Малый бутон истинного кварца",
-  "block.ae2.medium_quartz_bud": "Средний бутон истинного кварца",
-  "block.ae2.large_quartz_bud": "Большой бутон истинного кварца",
-  "block.ae2.quartz_cluster": "Кластер истинного кварца",
-
-  "block.ae2.flawless_budding_quartz": "Безупречный блок растущего истинного кварца",
-  "block.ae2.flawed_budding_quartz": "Дефектный блок растущего истинного кварца",
-  "block.ae2.chipped_budding_quartz": "Сколотый блок растущего истинного кварца",
-  "block.ae2.damaged_budding_quartz": "Повреждённый блок растущего истинного кварца"
+  "waila.ae2.Unlocked": "Разблокировано"
 }
