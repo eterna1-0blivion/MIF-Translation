@@ -19,8 +19,8 @@ mana p2p tunnel - Туннель точка-точка для маны
 
 Кабели:
 
-fluix glass cable - Флюксовый стеклянный кабель
-fluix covered cable - Флюксовый покрытый кабель
-fluix smart cable - Флюксовый умный кабель
-fluix covered dense cable - Флюксовый плотный кабель
-fluix smart dense cable - Флюксовый умный плотный кабель
+fluix glass cable - Флюксовый стеклянный МЭ кабель
+fluix covered cable - Флюксовый покрытый МЭ кабель
+fluix smart cable - Флюксовый умный МЭ кабель
+fluix covered dense cable - Флюксовый плотный МЭ кабель
+fluix smart dense cable - Флюксовый умный плотный МЭ кабель

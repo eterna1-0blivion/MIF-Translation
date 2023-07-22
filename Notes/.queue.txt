@@ -3,6 +3,7 @@
 - Modern Industrialization (Блоки и Предметы переведены)
 - Ad Astra (Блоки и Предметы переведены)
 - AE2 (T0pN1ck взял себе)
+- EMI (в процессе)
 - Botania (в процессе)
 - Deep Mob Learning (в процессе)
 
