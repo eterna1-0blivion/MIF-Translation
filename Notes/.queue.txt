@@ -1,10 +1,10 @@
 Очередь перевода:
 
-- Modern Industrialization (Блоки и предметы переведены)
-- Ad Astra (Блоки и предметы переведены)
-- AE2
-- Botania
-- Deep Mob Learning
+- Modern Industrialization (Блоки и Предметы переведены)
+- Ad Astra (Блоки и Предметы переведены)
+- AE2 (T0pN1ck взял себе)
+- Botania (в процессе)
+- Deep Mob Learning (в процессе)
 
 
 
