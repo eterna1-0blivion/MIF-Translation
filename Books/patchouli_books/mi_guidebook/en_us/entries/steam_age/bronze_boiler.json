@@ -1,6 +1,6 @@
 {
   "name": "Hot Water",
-  "category": "modern_industrialization:steam_age",
+  "category": "steam_age",
   "icon": "modern_industrialization:bronze_boiler",
   "pages": [
     {

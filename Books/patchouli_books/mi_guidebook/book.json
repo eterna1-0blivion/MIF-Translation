@@ -1,0 +1,11 @@
+{
+    "name": "patchouli.books.mi_guidebook.name",
+    "landing_text": "patchouli.books.mi_guidebook.landing_text",
+    "subtitle": "patchouli.books.mi_guidebook.subtitle",
+    "model": "modern_industrialization:guidebook",
+    "version": 1,
+    "show_progress": false,
+    "use_resource_pack": true,
+    "dont_generate_book": false,
+    "custom_book_item": "modern_industrialization:guidebook"
+}
