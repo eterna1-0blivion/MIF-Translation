@@ -23,6 +23,9 @@ plating_wall - Ограда из листовой обшивки (X)
 sliding_door - Раздвижная дверь из X
 trapdoor - Люк из X
 
+aeronos_mushroom - Гриб конусовик
+strophar_mushroom - Гриб строфаровик
+
 
 
 Снаряжение:
