@@ -121,7 +121,7 @@ Diamond - Алмаз
 Electrum - Электрум
 Elementium - Элементий
 Emerald - Изумруд
-Fire Clay Brick - Огнеупорный Кирпич
+Fire Clay Brick - Глинозёмистый Кирпич
 Gold - Золото
 Invar - Инвар
 Iridium - Иридий
