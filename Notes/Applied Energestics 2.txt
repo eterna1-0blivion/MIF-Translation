@@ -24,3 +24,14 @@ fluix covered cable - Флюксовый покрытый МЭ кабель
 fluix smart cable - Флюксовый умный МЭ кабель
 fluix covered dense cable - Флюксовый плотный МЭ кабель
 fluix smart dense cable - Флюксовый умный плотный МЭ кабель
+
+fluix pearl - Флюксовый жемчуг
+fluix dust - Флюксовая пыль
+fluix crystal - Флюксовый кристалл
+
+
+
+Прочее:
+
+X lumen paint ball - Шарик со светящейся X краской
+X paint ball - Шарик с X краской
