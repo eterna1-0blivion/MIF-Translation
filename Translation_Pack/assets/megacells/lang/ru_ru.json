@@ -55,7 +55,8 @@
 
   "block.megacells.mega_energy_cell": "Сверхплотная энергетическая ячейка",
   "block.megacells.mega_pattern_provider": "МЕГА поставщик шаблонов",
-  "block.megacells.cable_mega_pattern_provider": "МЕГА поставщик шаблонов",
+  "item.megacells.cable_mega_pattern_provider": "МЕГА поставщик шаблонов",
+  "tag.megacells.mega_pattern_provider": "МЕГА поставщики шаблонов",
   "block.megacells.mega_crafting_unit": "МЕГА блок создания",
   "block.megacells.mega_crafting_monitor": "МЕГА монитор создания",
   "block.megacells.mega_crafting_accelerator": "МЕГА блок со-процессор создания",
