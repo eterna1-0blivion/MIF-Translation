@@ -16,7 +16,7 @@
   "compactmachines.direction.south": "Юг",
   "compactmachines.direction.up": "Верх",
   "compactmachines.direction.west": "Запад",
-  "compactmachines.psd.pages.machines": "Компактные механизмы являются основной механикой этого мода. Они позволяют Вам строить большие комнаты в пространстве размером в один блок, соединённого с внешним миром.\nОни бывают разных размеров, начиная от 3x3x3 и заканчивая 13x13x13.\n\nВы можете использовать Туннели, чтобы соединять внешние стороны блока с внутренними стенами для транспортировки предметов, жидкостей и т.д.\n\nВойти в механизм можно, нажав по нему ПКМ Персональным сжимающим устройством. Пожалуйста, используйте JEI для просмотра рецептов создания.",
+  "compactmachines.psd.pages.machines": "Компактные механизмы являются основной механикой этого мода. Они позволяют Вам строить большие комнаты в пространстве размером в один блок, соединённого с внешним миром.\nОни бывают разных размеров, начиная от 3x3x3 и заканчивая 13x13x13.\n\nВы можете использовать Туннели, чтобы соединять внешние стороны блока с внутренними стенами для транспортировки предметов, жидкостей и т.д.\n\nВойти в механизм можно, нажав по нему ПКМ Персональным сжимающим устройством.",
   "compactmachines.psd.pages.machines.title": "Компактные механизмы",
   "item.compactmachines.personal_shrinking_device": "Персональное сжимающее устройство",
   "item.compactmachines.tunnel": "Предметный туннель",
@@ -34,8 +34,8 @@
   "tooltip.compactmachines.unknown_player": "Неизвестный игрок",
   "tooltip.compactmachines.unknown_tunnel_type": "Неизвестный тип канала (%s)",
 
-  "item.compactmachines.upgrades.chunkloader": "Улучшение подгрузки чанков",
-  "item.compactmachines.tunnels.energy": "Энергетический тоннель",
-  "item.compactmachines.tunnels.fluid": "Жидкостный тоннель",
-  "item.compactmachines.tunnels.item": "Предметный тоннель"
+  "item.compactmachines.upgrades.chunkloader": "Улучшение: загрузчик чанков",
+  "item.compactmachines.tunnels.energy": "Туннель для энергии",
+  "item.compactmachines.tunnels.fluid": "Туннель для жидкостей",
+  "item.compactmachines.tunnels.item": "Туннель для предметов"
 }
