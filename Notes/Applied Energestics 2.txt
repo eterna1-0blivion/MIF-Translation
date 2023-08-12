@@ -30,5 +30,8 @@ fluix dust - Флюксовая пыль
 fluix crystal - Флюксовый кристалл
 
 
+
+Прочее:
+
 X lumen paint ball - Шарик со светящейся X краской
 X paint ball - Шарик с X краской
