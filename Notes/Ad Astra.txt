@@ -6,14 +6,12 @@ ice_shard - Ледяные осколки
 ostrum - Острум
 
 
-Предметы:
+Блоки:
 
 block - Блок X
-pillar - Колонна из X
 cable - Кабель из X
 fluid_pipe - Жидкостная труба из X
 door - Дверь из X
-pillar - Колонна из листовой обшивки (X)
 plating - Листовая обшивка из X
 plating_button - Кнопка из листовой обшивки (X)
 plating_pressure_plate - Нажимная плита из листовой обшивки (X)
@@ -22,6 +20,10 @@ plating_stairs - Ступеньки из листовой обшивки (X)
 plating_wall - Ограда из листовой обшивки (X)
 sliding_door - Раздвижная дверь из X
 trapdoor - Люк из X
+
+pillar:
+ - Колонна из X
+ - Колонна из листовой обшивки (X)
 
 aeronos_mushroom - Гриб конусовик
 strophar_mushroom - Гриб строфаровик
