@@ -1,49 +1,46 @@
 # Русификатор для сборки MI:Foundation.
 
-<img alt="preview" src="Translation_Pack/pack.png" height="256">
+<img alt="preview" src="resourcepacks/Translation_Pack/pack.png" height="256">
 
-### Обратите внимание:
+_Русификатор находится на стадии разработки. 
+Что-то может быть не переведено или переведено некорректно._
 
-_Русификатор находится на стадии разработки. Что-то может быть не переведено или переведено некорректно._
+## Загрузка
 
-Но вы можете с этим помочь!
+- Загрузите [желаемую версию][version] русификатора.
 
-## Скачивание
-
-Загрузите [желаемую версию][version] русификатора.
-
-<img alt="preview" src="Pics/download pack.png" height="154">
+<img alt="preview" src="Project Files/Pics/download pack.png" height="154">
 
 ## Требования
 
-Клиент `MI:Foundation` в лаунчере [Enthusiasm][site].
+- Скачайте клиент `MI:Foundation` в лаунчере [Enthusiasm][site] _(временно недоступен)_.
 
-<img alt="preview" src="Pics/download launcher.png" height="158">
+<img alt="preview" src="Project Files/Pics/download launcher.png" height="158">
 
 ## Установка
 
-Перенесите скачанный архив в папку игры. 
+- Перенесите скачанный архив в папку игры.
 
-По умолчанию это: `C:\Users\%UserName%\AppData\Roaming\Enthusiasm\updates\MIF\resourcepacks`
+_По умолчанию это:_
+`C:\Users\%UserName%\AppData\Roaming\Enthusiasm\updates\MIF\resourcepacks`
 
-<img alt="preview" src="Pics/in folder.png" height="155">
+<img alt="preview" src="Project Files/Pics/in folder.png" height="155">
 
-Потом просто включите ресурспак в игре:
+- Не забудьте включить ресурспак в игре:
 
-<img alt="preview" src="Pics/enable resourcepack.png" height="98">
+<img alt="preview" src="Project Files/Pics/enable resourcepack.png" height="98">
 
-## Создано сообществом
+## Разработчик
 
-Полная история обновлений и авторов доступна на [Github][history], здесь же приведены те, кто внёс основной вклад: 
-- **EnEtoRiator** - его перевод взят за основу, спасибо ему.
-- **eterna1_0blivion** - он создал репозиторий и дал (впихнул) возможность сообществу переводить игру.
-- ...а это место специально для вас. Присоединяйтесь!
+- **eterna1_0blivion**
 
-## Ветки Git
+_Полная история обновлений доступна на [GitHub][history]_
 
-- `main` - основная ветка, с неё берутся все 'релизы'.
-- `dev` - рабочая ветка, отсюда можете скачать самую последнюю версию перевода.
+## Ветки
+
+- `main` _- основная ветка, с неё берутся все 'релизы'._
+- `dev` _- рабочая ветка, отсюда можете скачать самую последнюю версию перевода._
 
 [version]: https://github.com/eterna1-0blivion/enthusiasm-translation/releases/ "Все релизы"
-[history]: https://github.com/eterna1-0blivion/enthusiasm-translation/commits/main "История проекта"
 [site]: https://enthusiasm.pro/about "Сайт игры"
+[history]: https://github.com/eterna1-0blivion/enthusiasm-translation/commits/main "Коммиты проекта"
