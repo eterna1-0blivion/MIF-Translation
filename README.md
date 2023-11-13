@@ -41,6 +41,6 @@ _Полная история обновлений доступна на [GitHub]
 - `main` _- основная ветка, с неё берутся все 'релизы'._
 - `dev` _- рабочая ветка, отсюда можете скачать самую последнюю версию перевода._
 
-[version]: https://github.com/eterna1-0blivion/enthusiasm-translation/releases/ "Все релизы"
+[version]: https://github.com/eterna1-0blivion/MIF-Translation/releases "Все релизы"
 [site]: https://enthusiasm.pro/about "Сайт игры"
-[history]: https://github.com/eterna1-0blivion/enthusiasm-translation/commits/main "Коммиты проекта"
+[history]: https://github.com/eterna1-0blivion/MIF-Translation/commits/dev "Коммиты проекта"
