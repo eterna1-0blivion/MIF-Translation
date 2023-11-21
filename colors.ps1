@@ -33,3 +33,7 @@ Foreach ($bgcolor in $colors) {
     }
     Write-Host " on $bgcolor"
 }
+
+# Notify the user before exiting the program
+Read-Host -Prompt "Press Enter to exit"
+Break
