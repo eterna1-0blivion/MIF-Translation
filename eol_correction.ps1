@@ -1,6 +1,5 @@
 # author: eterna1_0blivion
 
-
 # Set title and display a caution
 Clear-Host
 $Host.UI.RawUI.WindowTitle = "End-of-Lines Correction Tool (v1.1.9)"

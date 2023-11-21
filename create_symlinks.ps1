@@ -1,6 +1,5 @@
 # author: eterna1_0blivion
 
-
 # Set title and display a greeting
 Clear-Host
 $Host.UI.RawUI.WindowTitle = "SymLink Creation Tool (v1.1.12)"

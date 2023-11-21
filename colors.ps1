@@ -1,6 +1,5 @@
 # author: timabell && eterna1_0blivion
 
-
 # Initial settings
 Clear-Host
 $Host.UI.RawUI.BackgroundColor = "Black"
