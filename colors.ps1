@@ -1,4 +1,4 @@
-# author: timabell && eterna1_0blivion
+# author: eterna1_0blivion & timabell
 
 # Initial settings
 Clear-Host
