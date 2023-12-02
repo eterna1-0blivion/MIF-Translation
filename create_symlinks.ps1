@@ -1,31 +1,31 @@
 # author: eterna1_0blivion
+$version = 'v1.1.13'
 
 # Set title and display a greeting
 Clear-Host
-$Host.UI.RawUI.WindowTitle = "SymLink Creation Tool (v1.1.12)"
+$Host.UI.RawUI.WindowTitle = "SymLink Creation Tool ($version)"
 $Host.UI.RawUI.BackgroundColor = "Black"
 $Host.UI.RawUI.ForegroundColor = "Gray"
 Write-Host "`nWelcome to the SymLink Creation Tool.
 `rFollow the instructions to create symlinks quickly and easily." -ForegroundColor White
 
-# initialPath from which program takes the folders listed below
-$initialPath = "$PSScriptRoot" # "$PSScriptRoot" - the location of this program's directory
+# initialPath from which program takes the targetFolders and clientFolder as general intermediate path
+$clientFolder = ".minecraft"
+# '$PSScriptRoot' - the location of this program's directory
+$initialPath = "$PSScriptRoot\$clientFolder"
 
-# Target folders array - you can change that
+
+# targetFolders array - you can put your values
 $targetFolders = @(
-    'mods'
-    'config'
-    'kubejs'
     'resourcepacks'
-    'modern_industrialization'
 )
 
 
 # Read instancePath entered by user
-while ($check -ne $true) {
+while ($check -ne $True) {
     $instancePath = Read-Host -Prompt "`nInput Instance Path (NOT '.minecraft' folder - one level above)`n"
     if ((Get-ChildItem -Path "$instancePath" -Name "instance.cfg" -ErrorAction Ignore) -eq "instance.cfg") {
-        $check = $true
+        $check = $True
         Write-Host "The path is correct." -ForegroundColor Green
     } else {
         Write-Host "Instance Path must contain the 'instance.cfg' file.
@@ -33,15 +33,15 @@ while ($check -ne $true) {
     }
 }
 
-# Create a clientFolder and assign destinationPath
-$clientFolder = ".minecraft"
+# TODO: add the ability to specify 'folder\folder\target' in $targetFolders
+# Define destinationPath
 New-Item -Type Directory -Path "$instancePath" -Name "$clientFolder" -ErrorAction Ignore
 $destinationPath = "$instancePath\$clientFolder"
 
 # Check a duplicate directory..
 foreach ($folder in $targetFolders) {
     if ((Get-ChildItem -Path "$destinationPath" -Name "$folder") -like '*') {
-        $findDuplicates = $true
+        $findDuplicates = $True
         Write-Host "Find a duplicate for '$folder' directory!" -ForegroundColor Yellow
     }
 }
@@ -60,7 +60,6 @@ if ($findDuplicates) {
     }
 }
 
-# TODO: add the ability to specify 'folder\folder\target' in $TargetFolders
 # Create the necessary SymLinks
 foreach ($folder in $targetFolders) {
     New-Item -ItemType SymbolicLink -Target "$initialPath\$folder" -Path "$destinationPath\$folder" -ErrorAction SilentlyContinue

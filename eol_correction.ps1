@@ -1,8 +1,9 @@
 # author: eterna1_0blivion
+$version = 'v1.1.10'
 
 # Set title and display a caution
 Clear-Host
-$Host.UI.RawUI.WindowTitle = "End-of-Lines Correction Tool (v1.1.9)"
+$Host.UI.RawUI.WindowTitle = "End-of-Lines Correction Tool ($version)"
 $Host.UI.RawUI.BackgroundColor = "Black"
 $Host.UI.RawUI.ForegroundColor = "Gray"
 Write-Host "`nPlease wait for the script to complete!" -ForegroundColor White

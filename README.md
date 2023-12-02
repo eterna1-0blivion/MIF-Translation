@@ -1,21 +1,21 @@
 # Русификатор для сборки MI:Foundation.
 
-<img alt="preview" src="resourcepacks/Translation_Pack/pack.png" height="256">
+<img alt="Cover" src="resourcepacks/Translation Pack/pack.png" height="256">
 
-_Русификатор находится на стадии разработки. 
+_Русификатор находится на стадии разработки.
 Что-то может быть не переведено или переведено некорректно._
 
 ## Загрузка
 
 - Загрузите [желаемую версию][version] русификатора.
 
-<img alt="preview" src="Project Files/Pics/download pack.png" height="154">
+<img alt="Download Archive" src="Project Files/Pics/download pack.png" height="154">
 
 ## Требования
 
 - Скачайте клиент `MI:Foundation` в лаунчере [Enthusiasm][site] _(временно недоступен)_.
 
-<img alt="preview" src="Project Files/Pics/download launcher.png" height="158">
+<img alt="Site" src="Project Files/Pics/download launcher.png" height="158">
 
 ## Установка
 
@@ -24,11 +24,11 @@ _Русификатор находится на стадии разработк�
 _По умолчанию это:_
 `C:\Users\%UserName%\AppData\Roaming\Enthusiasm\updates\MIF\resourcepacks`
 
-<img alt="preview" src="Project Files/Pics/in folder.png" height="155">
+<img alt="Path" src="Project Files/Pics/in folder.png" height="155">
 
 - Не забудьте включить ресурспак в игре:
 
-<img alt="preview" src="Project Files/Pics/enable resourcepack.png" height="98">
+<img alt="Enable Pack" src="Project Files/Pics/enable resourcepack.png" height="98">
 
 ## Разработчик
 
