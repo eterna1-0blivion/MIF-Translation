@@ -1,6 +1,6 @@
 # Русификатор для сборки MI:Foundation.
 
-<img alt="Cover" src="resourcepacks/Translation Pack/pack.png" height="256">
+<img alt="Cover" src=".minecraft/resourcepacks/Translation Pack/pack.png" height="256">
 
 _Русификатор находится на стадии разработки.
 Что-то может быть не переведено или переведено некорректно._
