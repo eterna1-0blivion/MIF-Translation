@@ -13,6 +13,9 @@
 *.tar.gz
 *.rar
 
+# IDE files
+.idea/
+
 # Custom directories or files
 Project Files/Original
 Project Files/Archives
