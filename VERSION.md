@@ -1,4 +1,4 @@
-_Советую заглянуть в папку_ [Notes][notes]_, там лежат полезные пояснения о всяком разном._
+_Советую заглянуть в папку [Notes][notes], там лежат полезные пояснения о всяком разном._
 
 **О версиях:**
 
@@ -6,10 +6,10 @@ _Советую заглянуть в папку_ [Notes][notes]_, там леж
 - `Vanilla` - _версия без сглаженного шрифта, ванильные квадратные буковки для особых Адептов Кубизма_
 - `Source Code` - _качать это не рекомендуется в принципе, лучше клонируйте репозиторий на главной странице_
 
-Самая последняя версия перевода в ветке `dev`. Если вы хотите, можете скачать папку [Translation Pack][pack] и поставить напрямую. Запаковывать в архив не обязательно, игра с папками работать умеет.
+Если вы хотите получить последнюю версию, скачайте папку [Translation Pack][pack] и поставьте напрямую. Запаковывать в архив не обязательно.
 
 По всем ошибкам/недочётам/неприятностям писать либо на гит (желательно, конечно, сразу PR с исправлением :3), либо мне в дискорд: `@eterna1-0blivion`.
 
 
-[notes]: https://github.com/eterna1-0blivion/MIF-Translation/tree/dev/Project%20Files/Notes "Заметки"
-[pack]: https://github.com/eterna1-0blivion/MIF-Translation/tree/dev/.minecraft/resourcepacks/Translation%20Pack "Последняя версия проекта"
+[notes]: https://github.com/eterna1-0blivion/MIF-Translation/tree/main/Project%20Files/Notes "Заметки"
+[pack]: https://github.com/eterna1-0blivion/MIF-Translation/tree/main/.minecraft/resourcepacks/Translation%20Pack "Последняя версия проекта"
