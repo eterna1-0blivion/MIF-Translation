@@ -34,12 +34,8 @@ _По умолчанию это:_
 
 - **eterna1_0blivion**
 
-_Полная история обновлений доступна на [GitHub][history]_
-
-## Ветки
-
-- `main` _- основная ветка, с неё берутся все 'релизы'._
-- `dev` _- рабочая ветка, отсюда можете скачать самую последнюю версию перевода._
+### История изменений
+_Доступна на [GitHub][history]_
 
 [version]: https://github.com/eterna1-0blivion/MIF-Translation/releases "Все релизы"
 [site]: https://enthusiasm.pro/about "Сайт игры"
