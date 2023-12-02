@@ -34,9 +34,9 @@ _По умолчанию это:_
 
 - **eterna1_0blivion**
 
-### История изменений
+## История изменений
 _Доступна на [GitHub][history]_
 
 [version]: https://github.com/eterna1-0blivion/MIF-Translation/releases "Все релизы"
 [site]: https://enthusiasm.pro/about "Сайт игры"
-[history]: https://github.com/eterna1-0blivion/MIF-Translation/commits/dev "Коммиты проекта"
+[history]: https://github.com/eterna1-0blivion/MIF-Translation/commits/main "История проекта"
