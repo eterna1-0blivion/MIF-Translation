@@ -29,6 +29,9 @@
   "key.emi.hide_stack": "Скрыть стак",
   "key.emi.hide_stack_by_id": "Скрыть стак по ID",
 
+  "emi.index_source.creative": "Творческие вкладки",
+  "emi.index_source.registered": "Зарегестрированные",
+  "emi.index_source.creative_plus_registered": "Творческие вкладки + Зарегестрированные",
   "emi.help_level.verbose": "Подробный",
   "emi.help_level.normal": "Нормальный",
   "emi.help_level.none": "Никакой",
@@ -89,6 +92,7 @@
   "config.emi.general.enabled": "Включен",
   "config.emi.general.cheat_mode": "Режим читерства",
   "config.emi.general.help_level": "Уровень помощи",
+  "config.emi.general.index_source": "Источник поиска",
   "config.emi.general.search_tooltip_by_default": "Поиск по подсказке",
   "config.emi.general.search_mod_name_by_default": "Поиск по названию мода",
   "config.emi.general.search_tags_by_default": "Поиск по тегам",
