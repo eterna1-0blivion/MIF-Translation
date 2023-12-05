@@ -1,5 +1,5 @@
 # author: eterna1_0blivion
-$version = 'v1.1.14'
+$version = 'v1.1.15'
 
 # Some variables for easy invocation
 $theme = '$Host.UI.RawUI.BackgroundColor = "Black"; $Host.UI.RawUI.ForegroundColor = "Gray"; Clear-Host'
@@ -14,7 +14,6 @@ Write-Host "`nWelcome to the SymLink Creation Tool.
 
 # initialPath from which program takes the targetFolders and clientFolder as general intermediate path
 $clientFolder = ".minecraft"
-# '$PSScriptRoot' - the location of this program's directory
 $initialPath = "$PSScriptRoot\$clientFolder"
 
 
@@ -25,10 +24,10 @@ $targetFolders = @(
 
 
 # Read instancePath entered by user
-while ($check -ne $True) {
+while ($checkInput -ne $True) {
     $instancePath = Read-Host -Prompt "`nInput Instance Path (NOT '.minecraft' folder - one level above)`n"
     if ((Get-ChildItem -Path "$instancePath" -Name "instance.cfg" -ErrorAction Ignore) -eq "instance.cfg") {
-        $check = $True
+        $checkInput = $True
         Write-Host "The path is correct." -ForegroundColor Green
     } else {
         Write-Host "Instance Path must contain the 'instance.cfg' file.
