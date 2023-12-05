@@ -15,6 +15,7 @@
 
 # IDE files
 .idea/
+.vscode/
 
 # Custom directories or files
 Project Files/Original
