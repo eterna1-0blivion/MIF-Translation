@@ -1,11 +1,14 @@
 # author: eterna1_0blivion
-$version = 'v1.1.10'
+$version = 'v1.1.11'
 
-# Set title and display a caution
-Clear-Host
+# Some variables for easy invocation
+$theme = '$Host.UI.RawUI.BackgroundColor = "Black"; $Host.UI.RawUI.ForegroundColor = "Gray"; Clear-Host'
+$exit = 'Read-Host -Prompt "Press Enter to exit"; Break'
+
+
+# Set title, theme and display a caution
 $Host.UI.RawUI.WindowTitle = "End-of-Lines Correction Tool ($version)"
-$Host.UI.RawUI.BackgroundColor = "Black"
-$Host.UI.RawUI.ForegroundColor = "Gray"
+Invoke-Expression $theme
 Write-Host "`nPlease wait for the script to complete!" -ForegroundColor White
 
 # Create gitBash alias (current for Windows only)
@@ -20,8 +23,7 @@ Write-Host "`nWARNING! If there are any un-committed changes in your local repos
 $resolve = Read-Host -Prompt "`nContinue EOL correction? [Y/N]"
 if ($resolve -ne 'Y') {
     Write-Host "`nYou've stopped the script from running." -ForegroundColor Yellow
-    Read-Host -Prompt "Press Enter to exit"
-    Break
+    Invoke-Expression $exit
 }
 
 # Display an initial path
@@ -35,5 +37,4 @@ if ($resolve -ne 'Y') {
 
 # Notification of successfully finished work
 Write-Host "`nThe script completed successfully." -ForegroundColor Green
-Read-Host -Prompt "Press Enter to exit"
-Break
+Invoke-Expression $exit

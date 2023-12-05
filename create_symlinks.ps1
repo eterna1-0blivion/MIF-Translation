@@ -1,11 +1,14 @@
 # author: eterna1_0blivion
-$version = 'v1.1.13'
+$version = 'v1.1.14'
 
-# Set title and display a greeting
-Clear-Host
+# Some variables for easy invocation
+$theme = '$Host.UI.RawUI.BackgroundColor = "Black"; $Host.UI.RawUI.ForegroundColor = "Gray"; Clear-Host'
+$exit = 'Read-Host -Prompt "Press Enter to exit"; Break'
+
+
+# Set title, theme and display a greeting
 $Host.UI.RawUI.WindowTitle = "SymLink Creation Tool ($version)"
-$Host.UI.RawUI.BackgroundColor = "Black"
-$Host.UI.RawUI.ForegroundColor = "Gray"
+Invoke-Expression $theme
 Write-Host "`nWelcome to the SymLink Creation Tool.
 `rFollow the instructions to create symlinks quickly and easily." -ForegroundColor White
 
@@ -50,13 +53,13 @@ if ($findDuplicates) {
     $resolve = Read-Host -Prompt "`nDelete the duplicates automatically? [Y/N]"
     if ($resolve -eq 'Y') {
         # ..and directly remove
-        foreach ($folder in $targetFolders)
-        {Remove-Item -Path "$destinationPath\$folder" -ErrorAction Ignore}
+        foreach ($folder in $targetFolders) {
+            Remove-Item -Path "$destinationPath\$folder" -ErrorAction Ignore
+        }
     } else {
         # If the user refuses, let him delete them manually
         Write-Host "`nCreation SymLinks was stopped. Delete duplicates manually and start the program again." -ForegroundColor Red
-        Read-Host -Prompt "Press Enter to exit"
-        Break
+        Invoke-Expression $exit
     }
 }
 
@@ -69,11 +72,9 @@ foreach ($folder in $targetFolders) {
 if ($Error -like '*') {
     # The user refused to delete only part of the files when reconfirmed
     Write-Host "`nSome SymLinks were not created due to duplicates. Check the result manually." -ForegroundColor Yellow
-    Read-Host -Prompt "Press Enter to exit"
-    Break
+    Invoke-Expression $exit
 } else {
     # Notification of work successfully finished
     Write-Host "`nSymLinks created successfully." -ForegroundColor Green
-    Read-Host -Prompt "Press Enter to exit"
-    Break
+    Invoke-Expression $exit
 }

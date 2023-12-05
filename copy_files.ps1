@@ -1,9 +1,14 @@
 # author: eterna1_0blivion
-$version = 'v1.0.1'
+$version = 'v1.0.2'
 
-# Set title and display a 'Loading...'
-Clear-Host
+# Some variables for easy invocation
+$theme = '$Host.UI.RawUI.BackgroundColor = "Black"; $Host.UI.RawUI.ForegroundColor = "Gray"; Clear-Host'
+$exit = 'Read-Host -Prompt "Press Enter to exit"; Break'
+
+
+# Set title, theme and display a 'Loading...'
 $Host.UI.RawUI.WindowTitle = "Copy Files Script ($version)"
+Invoke-Expression $theme
 Write-Host "Loading..."
 
 # Define initialPath and destinationPath
@@ -14,6 +19,5 @@ $destinationPath = "$PSScriptRoot\..\MI-NH\.minecraft\resourcepacks"
 Copy-Item -Path "$initialPath\*" -Destination "$destinationPath" -Recurse -Force
 
 # Notification of work successfully finished
-    Write-Host "`nFiles copied successfully." -ForegroundColor Green
-    Read-Host -Prompt "Press Enter to exit"
-    Break
+Write-Host "`nFiles copied successfully." -ForegroundColor Green
+Invoke-Expression $exit
