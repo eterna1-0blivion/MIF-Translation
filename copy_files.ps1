@@ -13,7 +13,7 @@ Write-Host "Loading..."
 
 # Define initialPath and destinationPath
 $initialPath = "$PSScriptRoot\.minecraft\resourcepacks"
-$destinationPath = "$PSScriptRoot\..\MI-NH\.minecraft\resourcepacks"
+$destinationPath = "$PSScriptRoot\..\MI-NH\resourcepacks"
 
 # Copy files from initialPath to destinationPath
 Copy-Item -Path "$initialPath\*" -Destination "$destinationPath" -Recurse -Force
