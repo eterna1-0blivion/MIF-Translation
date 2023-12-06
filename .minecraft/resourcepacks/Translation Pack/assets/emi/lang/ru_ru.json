@@ -5,7 +5,7 @@
 
   "key.emi.toggle_visibility": "Переключить видимость",
   "key.emi.focus_search": "Сфокусированный поиск",
-  "key.emi.clear_search": "Чистый поиск",
+  "key.emi.clear_search": "Очистить поиск",
   "key.emi.view_recipes": "Посмотреть рецепты",
   "key.emi.view_uses": "Посмотреть применения",
   "key.emi.favorite": "Избранное",
@@ -31,7 +31,7 @@
 
   "emi.index_source.creative": "Творческие вкладки",
   "emi.index_source.registered": "Зарегестрированные",
-  "emi.index_source.creative_plus_registered": "Творческие вкладки + Зарегестрированные",
+  "emi.index_source.creative_plus_registered": "Совмещённый режим",
   "emi.help_level.verbose": "Подробный",
   "emi.help_level.normal": "Нормальный",
   "emi.help_level.none": "Никакой",
@@ -84,15 +84,15 @@
   "config.emi.group.ui.top_sidebar": "Верхняя панель",
   "config.emi.group.ui.bottom_sidebar": "Нижняя панель",
   "config.emi.group.binds": "Горячие клавиши",
-  "config.emi.group.dev": "Разработчик",
+  "config.emi.group.dev": "Для разработчиков",
 
   "config.emi.group.binds.crafts": "Крафты",
   "config.emi.group.binds.cheats": "Читы",
 
-  "config.emi.general.enabled": "Включен",
+  "config.emi.general.enabled": "Включить EMI",
   "config.emi.general.cheat_mode": "Режим читерства",
   "config.emi.general.help_level": "Уровень помощи",
-  "config.emi.general.index_source": "Источник поиска",
+  "config.emi.general.index_source": "Источник индекса",
   "config.emi.general.search_tooltip_by_default": "Поиск по подсказке",
   "config.emi.general.search_mod_name_by_default": "Поиск по названию мода",
   "config.emi.general.search_tags_by_default": "Поиск по тегам",
@@ -140,7 +140,7 @@
 
   "config.emi.ui.vertical_margin": "Отступ сверху",
   "config.emi.ui.minimum_recipe_screen_width": "Минимальная ширина окна",
-  "config.emi.ui.workstation_location": "Расположение рабочей станции",
+  "config.emi.ui.workstation_location": "Расположение рабочих станций",
   "config.emi.ui.miscraft_prevention": "Предотвращение случайных крафтов",
   "config.emi.ui.fluid_unit": "Блоки жидкостей",
   "config.emi.ui.show_cost_per_batch": "Показывать цену за несколько",
@@ -179,7 +179,7 @@
   "emi.fluid.amount.millibuckets": "%s мВ",
   "emi.fluid.amount.droplets": "%s к",
 
-  "emi.disabled": "EMI отключен! Включите.",
+  "emi.disabled": "EMI отключён! Включите.",
   "emi.reloading": "EMI перезапускается...",
   "emi.reloading.waiting": "EMI ждёт данные о рецептах от сервера...",
   "emi.reloading.error": "§cПри перезапуске EMI возникла критическая ошибка, проверьте логи",
@@ -224,7 +224,7 @@
   "tooltip.emi.config": "Конфигурация %s",
   "tooltip.emi.recipe_tree": "Дерево рецептов",
 
-  "tooltip.emi.config.global": "Использовать глобальную настройку EMI между всеми копиями игры вместо собственной для каждой копии? §8(Полезно только при использовании лаунчеров, создающих несколько папок .minecraft)",
+  "tooltip.emi.config.global": "Использовать глобальную настройку EMI между всеми копиями игры вместо собственной для каждой копии?\n§8(Полезно §8только §8при §8использовании §8лаунчеров, §8создающих §8несколько §8папок §8.minecraft)",
 
   "tooltip.emi.synfav.uncraftable": "Невозможно создать §cни одного§r пакета",
   "tooltip.emi.synfav.partially_craftable": "Можно создать §dнекоторые§r пакеты\n§6Взаимодействуйте§r, чтобы создать все возможные",
@@ -271,10 +271,10 @@
   "emi.chess.multiplayer.cancelled": "%s отменяет игру в шахматы",
   "emi.chess.multiplayer.unavailable": "%s не может играть в шахматы",
 
-  "emi.cooking.experience": "%s очков опыта",
+  "emi.cooking.experience": "%s ОП",
   "emi.cooking.time": "%s секунд",
-  "emi.grinding.experience": "%s - %s очков опыта",
-  "emi.fuel_time.items": "Переплавит %s предмет(ов)",
+  "emi.grinding.experience": "%s - %s ОП",
+  "emi.fuel_time.items": "Переплавит %s шт",
 
   "emi.category.minecraft.crafting": "Создание",
   "emi.category.minecraft.smelting": "Плавка",
