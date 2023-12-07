@@ -1,0 +1,42 @@
+---[ENG]---
+
+#======================================================================#
+# Version [0.11.0] was created by 'xalixilax'. Thanks to her for that. #
+#======================================================================#
+
+
+
+Patch Note for Version [0.11.1] made by 'eterna1_0blivion' (that is, by me):
+
+--> Fixed files in the 'optifine' directory (I refuse to comment on this).
+
+--> Textures corrected: 'Knockback I-II', 'Sweeping Edge I-II', 'Bane Of Arthropods V', 'Protection I-IV', 'Projectile Protection I-IV', 'Fire Protection I-IV', 'Blast Protection I-IV', 'Unbreaking I-III', 'Frost Walker I'.
+(some similar to v0.10.2 patch, some reworked).
+
+--> Files 'README.md' and 'PATCH NOTES.txt' added (hi!)
+
+--> Added file 'COVER [v0.11.1]' to '.look into me' folder on google drive (link in 'README.md').
+
+
+
+
+
+
+---[RUS]---
+
+#==============================================================#
+# Версия [0.11.0] была создана 'xalixilax'. Спасибо ей за это. #
+#==============================================================#
+
+
+
+Патчноут для версии [0.11.1], сделанной 'eterna1_0blivion' (то есть, мной):
+
+--> Исправлены файлы в директории 'optifine' (я отказываюсь это комментировать).
+
+--> Скорректированы текстуры: 'Knockback I-II', 'Sweeping Edge I-II', 'Bane Of Arthropods V', 'Protection I-IV', 'Projectile Protection I-IV', 'Fire Protection I-IV', 'Blast Protection I-IV', 'Unbreaking I-III', 'Frost Walker I'
+(часть аналогична патчу v0.10.2, часть переработана).
+
+--> Добавлены файлы 'README.md' и 'PATCH NOTES.txt' (привет!)
+
+--> Добавлен файл 'COVER [v0.11.1]' в папку '.look into me' на гугл диске (ссылка в 'README.md').

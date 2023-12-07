@@ -1,0 +1,20 @@
+Configured for Minecraft 1.19.3+
+This pack is compatible with Minecraft 1.13 onwards, up to 1.19.3.
+Pack version v1.5
+
+
+How to fix "Incompatible (Made for an older/newer version of Minecraft)" error message from the Resource Pack selection menu:
+- Open the "pack.mcmeta" file from the main directory of this resource pack in a text editor such as Notepad++.
+- Change the "pack_format" field to the appropriate number depending on your version of Minecraft:
+	1  for 1.6.1–1.8.9
+	2  for 1.9–1.10.2
+	3  for 1.11–1.12.2
+	4  for 1.13–1.14.4
+	5  for 1.15–1.16.1
+	6  for 1.16.2-1.16.5
+	7  for 1.17-1.17.1
+	8  for 1.18-1.18.2
+	9  for 1.19-1.19.2
+	12 for 1.19.3
+	You may need to check https://minecraft.gamepedia.com/Resource_Pack#Pack_format for the most recent version of the game.
+- Save your changes to the file. You may need to reload resource packs ingame (F3+T), or load another resource pack for the error message to disappear.

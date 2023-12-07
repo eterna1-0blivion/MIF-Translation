@@ -271,9 +271,9 @@
   "emi.chess.multiplayer.cancelled": "%s отменяет игру в шахматы",
   "emi.chess.multiplayer.unavailable": "%s не может играть в шахматы",
 
-  "emi.cooking.experience": "%s ОП",
+  "emi.cooking.experience": "%s опыта",
   "emi.cooking.time": "%s секунд",
-  "emi.grinding.experience": "%s - %s ОП",
+  "emi.grinding.experience": "%s - %s опыта",
   "emi.fuel_time.items": "Переплавит %s шт",
 
   "emi.category.minecraft.crafting": "Создание",

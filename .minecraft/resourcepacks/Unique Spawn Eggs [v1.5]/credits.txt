@@ -1,0 +1,16 @@
+1.19.3+ resource pack by Gouchnox
+All files are my own.
+
+
+Inspired by "Eggmoticons - Egg Faces" by stiw91:	https://www.planetminecraft.com/texture-pack/eggmoticons-egg-faces/
+
+
+You cannot redistribute this pack as your own without proper modification and/or addition.
+You cannot restrict access to content that includes assets from this pack.
+You can distribute your own project containing some of the assets from this pack, as long as:
+	- it includes proper modifications and/or additions
+	- you give proper credit in the project files and its download page(s) (see below)
+	- it is free to use by the community
+Any project that includes parts or all of the assets from this pack must contain a credits.txt file with the following text:
+	Credits:
+	Unique Spawn Eggs by Gouchnox: https://www.planetminecraft.com/member/gouchnox/
