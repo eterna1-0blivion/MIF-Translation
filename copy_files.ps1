@@ -12,8 +12,8 @@ Invoke-Expression $theme
 Write-Host "Loading..."
 
 # Define initialPath and destinationPath
-$initialPath = "$PSScriptRoot\.minecraft\resourcepacks"
-$destinationPath = "$PSScriptRoot\..\MI-NH\resourcepacks"
+$initialPath = "$PSScriptRoot\.minecraft\resourcepacks\Translation Pack"
+$destinationPath = "$PSScriptRoot\..\MI-NH\resourcepacks\Translation Pack"
 
 # Copy files from initialPath to destinationPath
 Copy-Item -Path "$initialPath\*" -Destination "$destinationPath" -Recurse -Force

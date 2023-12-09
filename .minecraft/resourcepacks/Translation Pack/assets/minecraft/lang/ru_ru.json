@@ -3324,7 +3324,7 @@
     "instrument.minecraft.seek_goat_horn": "Стремление",
     "instrument.minecraft.sing_goat_horn": "Воспевание",
     "instrument.minecraft.yearn_goat_horn": "Тоска",
-    "inventory.binSlot": "Удалить предмет",
+    "inventory.binSlot": "Удалить предметы",
     "inventory.hotbarInfo": "Сохраните инструменты, используя %1$s+%2$s",
     "inventory.hotbarSaved": "Инструменты сохранены (восстановить — %1$s+%2$s)",
     "item.canBreak": "Может ломать:",
