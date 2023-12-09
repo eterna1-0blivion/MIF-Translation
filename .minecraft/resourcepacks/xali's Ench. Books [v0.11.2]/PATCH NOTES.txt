@@ -5,8 +5,7 @@
 #======================================================================#
 
 
-
-Patch Note for Version [0.11.1] made by 'eterna1_0blivion' (that is, by me):
+Patch Note for Version [0.11.2] made by 'eterna1_0blivion' (that is, by me):
 
 --> Fixed files in the 'optifine' directory (I refuse to comment on this).
 
@@ -20,8 +19,6 @@ Patch Note for Version [0.11.1] made by 'eterna1_0blivion' (that is, by me):
 
 
 
-
-
 ---[RUS]---
 
 #==============================================================#
@@ -29,8 +26,7 @@ Patch Note for Version [0.11.1] made by 'eterna1_0blivion' (that is, by me):
 #==============================================================#
 
 
-
-Патчноут для версии [0.11.1], сделанной 'eterna1_0blivion' (то есть, мной):
+Патчноут для версии [0.11.2], сделанной 'eterna1_0blivion' (то есть, мной):
 
 --> Исправлены файлы в директории 'optifine' (я отказываюсь это комментировать).
 

@@ -1,63 +1,6 @@
 Vanilla Tweaks Resource Pack
 Version: 1.19
 Packs:
-	BedIcons
-	SmootherFont
-	SingularGlazedTerracotta
-	PlainLeatherArmor
-	FlintTippedArrows
-	AnimatedCampfireItem
-	UniqueDyes
-	RedIronGolemFlowers
-	BetterParticles
-	DifferentStems
-	TwinklingStars
-	FancySunflowers
-	CircleLogTops
-	VariatedBookshelves
-	VariatedUnpolishedStones
-	VariatedTerracotta
-	VariatedStone
-	VariatedLogs
-	VariatedMushroomBlocks
-	VariatedEndStone
-	VariatedGravel
-	VariatedMycelium
-	VariatedPlanks
-	VariatedBricks
-	RandomMossRotation
-	VariatedCobblestone
-	VariatedGrass
-	VariatedDirt
-	RandomCoarseDirtRotation
-	VisualSaplingGrowth
-	CompassLodestone
-	Age25Kelp
-	VisualWaxedCopperItems
-	VisualInfestedStoneItems
-	VisualHoney
-	VisualCauldronStages
-	VisualComposterStages
-	NoteblockBanners
-	GroovyLevers
-	StickyPistonSides
-	DirectionalDispensersDroppers
-	ClearBannerPatterns
-	AlternateEnchantGlint
-	LowerFire
-	UnobtrusiveScaffolding
-	3DIronBars
-	3DChains
-	3DDoors
-	3DSunMoon
-	3DStonecutters
-	3DTrapdoors
-	3DLadders
-	3DRails
-	NumberedHotbar
-	RainbowExperience
-	PingColorIndicator
-	MoreCrosshairs-PlusDot
 	HoeFix
 	CloudFogFix
 	DoubleSlabFix
@@ -81,9 +24,64 @@ Packs:
 	JappaStatsIcons
 	DripleafFixSmall
 	DripleafFixBig
-	ItemStitchingFix
 	RedstoneWireFix
 	PixelConsistentBat
+	NumberedHotbar
+	RainbowExperience
+	PingColorIndicator
+	MoreCrosshairs-PlusDot
+	3DIronBars
+	3DChains
+	3DDoors
+	3DSunMoon
+	3DStonecutters
+	3DTrapdoors
+	3DLadders
+	3DRails
+	LowerFire
+	UnobtrusiveScaffolding
+	VisualSaplingGrowth
+	CompassLodestone
+	Age25Kelp
+	VisualWaxedCopperItems
+	VisualInfestedStoneItems
+	VisualHoney
+	VisualCauldronStages
+	VisualComposterStages
+	NoteblockBanners
+	GroovyLevers
+	StickyPistonSides
+	DirectionalDispensersDroppers
+	ClearBannerPatterns
+	VariatedBookshelves
+	VariatedUnpolishedStones
+	VariatedTerracotta
+	VariatedStone
+	VariatedLogs
+	VariatedMushroomBlocks
+	VariatedEndStone
+	VariatedGravel
+	VariatedMycelium
+	VariatedPlanks
+	VariatedBricks
+	RandomMossRotation
+	VariatedCobblestone
+	VariatedGrass
+	VariatedDirt
+	RandomCoarseDirtRotation
+	TwinklingStars
+	FancySunflowers
+	CircleLogTops
+	SingularGlazedTerracotta
+	PlainLeatherArmor
+	FlintTippedArrows
+	AnimatedCampfireItem
+	UniqueDyes
+	RedIronGolemFlowers
+	BetterParticles
+	DifferentStems
+	SmootherFont
+	BedIcons
 	ProperBreakParticles
 	DirectionalHoppers
 	GoldenCrown

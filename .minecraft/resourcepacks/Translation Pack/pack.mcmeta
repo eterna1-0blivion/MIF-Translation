@@ -1,15 +1,6 @@
 {
-  "pack": {
-    "pack_format": 9,
-    "description": [
-      {
-        "text": "by eterna1_0blivion \n",
-        "color": "blue"
-      },
-      {
-        "text": "v1.2.7",
-        "color": "red"
-      }
-    ]
-  }
+    "pack": {
+        "pack_format": 9,
+        "description": "§9by eterna1_0blivion\n§cv1.2.8"
+    }
 }

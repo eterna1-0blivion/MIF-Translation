@@ -1,15 +1,6 @@
 {
-  "pack": {
-    "pack_format": 9,
-    "description": [
-      {
-        "text": "r147544 \n",
-        "color": "yellow"
-      },
-      {
-        "text": "vanillatweaks.net",
-        "color": "blue"
-      }
-    ]
-  }
+    "pack": {
+        "pack_format": 9,
+        "description": "§er734044\n§9vanillatweaks.net"
+    }
 }

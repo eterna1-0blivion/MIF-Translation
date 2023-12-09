@@ -1,1 +1,7 @@
-{"parent":"item/generated","textures":{"layer0":"item/o","layer1":"item/water_breathing/s"}}
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/o",
+        "layer1": "item/water_breathing/s"
+    }
+}
