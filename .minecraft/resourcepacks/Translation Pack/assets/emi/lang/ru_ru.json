@@ -369,7 +369,7 @@
 
 
     "screen.emi.recipe": "Рецепт",
-    "screen.emi.config": "Конфигурация",
+    "screen.emi.config": "Настройки",
 
     "screen.emi.config.reset": "Обратить %s изменение(-ий)",
 
@@ -384,8 +384,8 @@
     "emi.align.vertical.center": "По центру",
     "emi.align.vertical.bottom": "Снизу",
 
-    "emi.header.visible": "Показан",
-    "emi.header.invisible": "Не показан",
+    "emi.header.visible": "Показана",
+    "emi.header.invisible": "Скрыта",
 
     "emi.sidebar.type.none": "Никакая",
     "emi.sidebar.type.index": "Индекс",
@@ -457,7 +457,7 @@
     "tooltip.emi.default_resolution": "Нажмите на кнопку §6сделать стандартным рецептом§r, чтобы привязать его ко §aвсем§r деревьям",
     "tooltip.emi.clear_resolution": "Нажмите §6сюда§r, чтобы §cочистить§r выбор для этого рецепта",
 
-    "tooltip.emi.config": "Конфигурация %s",
+    "tooltip.emi.config": "Настройки %s",
     "tooltip.emi.recipe_tree": "Дерево рецептов",
 
     "tooltip.emi.synfav.uncraftable": "Невозможно создать §cни одного§r предмета",
