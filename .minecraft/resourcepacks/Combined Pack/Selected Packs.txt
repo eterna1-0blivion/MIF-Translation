@@ -1,58 +1,20 @@
 Vanilla Tweaks Resource Pack
 Version: 1.19
 Packs:
-	HoeFix
-	CloudFogFix
-	DoubleSlabFix
-	SoulSoilSoulCampfire
-	BlazeFix
-	SlimeParticleFix
-	NicerFastLeaves
-	PixelConsistentGuardianBeam
-	PixelConsistentSonicBoom
-	PixelConsistentBeaconBeam
-	PixelConsistentXPOrbs
-	PixelConsistentSigns
-	TripwireHookFix
-	CactusBottomFix
-	PixelConsistentGhast
-	PixelConsistentElderGuardian
-	PixelConsistentWither
-	ConsistentTadpoleBucket
-	JappaToasts
-	JappaSpecIcons
-	JappaStatsIcons
-	DripleafFixSmall
-	DripleafFixBig
-	RedstoneWireFix
-	PixelConsistentBat
-	NumberedHotbar
-	RainbowExperience
-	PingColorIndicator
-	MoreCrosshairs-PlusDot
-	3DIronBars
-	3DChains
-	3DDoors
-	3DSunMoon
-	3DStonecutters
-	3DTrapdoors
-	3DLadders
-	3DRails
-	LowerFire
-	UnobtrusiveScaffolding
-	VisualSaplingGrowth
-	CompassLodestone
-	Age25Kelp
-	VisualWaxedCopperItems
-	VisualInfestedStoneItems
-	VisualHoney
-	VisualCauldronStages
-	VisualComposterStages
-	NoteblockBanners
-	GroovyLevers
-	StickyPistonSides
-	DirectionalDispensersDroppers
-	ClearBannerPatterns
+	Bedrock
+	BedIcons
+	DirtPathToGrassPath
+	SmootherFont
+	PlainLeatherArmor
+	FlintTippedArrows
+	AnimatedCampfireItem
+	UniqueDyes
+	RedIronGolemFlowers
+	BetterParticles
+	DifferentStems
+	TwinklingStars
+	FancySunflowers
+	CircleLogTops
 	VariatedBookshelves
 	VariatedUnpolishedStones
 	VariatedTerracotta
@@ -69,30 +31,69 @@ Packs:
 	VariatedGrass
 	VariatedDirt
 	RandomCoarseDirtRotation
-	TwinklingStars
-	FancySunflowers
-	CircleLogTops
-	SingularGlazedTerracotta
-	PlainLeatherArmor
-	FlintTippedArrows
-	AnimatedCampfireItem
-	UniqueDyes
-	RedIronGolemFlowers
-	BetterParticles
-	DifferentStems
-	SmootherFont
-	BedIcons
-	ProperBreakParticles
-	DirectionalHoppers
+	VisualSaplingGrowth
+	CompassLodestone
+	Age25Kelp
+	VisualWaxedCopperItems
+	VisualInfestedStoneItems
+	VisualHoney
+	VisualCauldronStages
+	VisualComposterStages
+	NoteblockBanners
+	GroovyLevers
+	StickyPistonSides
+	DirectionalDispensersDroppers
+	ClearBannerPatterns
+	UnobtrusiveScaffolding
+	3DChains
+	3DSunMoon
+	3DStonecutters
+	3DLadders
+	3DRails
+	NumberedHotbar
+	RainbowExperience
+	PingColorIndicator
+	MoreCrosshairs-PlusDot
+	SoulSoilSoulCampfire
+	BlazeFix
+	SlimeParticleFix
+	NicerFastLeaves
+	PixelConsistentGuardianBeam
+	PixelConsistentSonicBoom
+	PixelConsistentBeaconBeam
+	PixelConsistentSigns
+	TripwireHookFix
+	PixelConsistentGhast
+	ConsistentTadpoleBucket
+	JappaToasts
+	JappaSpecIcons
+	JappaStatsIcons
+	DripleafFixSmall
+	DripleafFixBig
+	PixelConsistentBat
+	JappaRecipeButton
+	CatFix
+	IronBarsFix
+	HoeFix
+	DoubleSlabFix
+	CloudFogFix
+	PixelConsistentXPOrbs
+	PixelConsistentElderGuardian
+	PixelConsistentWither
+	CactusBottomFix
+	RedstoneWireFix
 	GoldenCrown
 	ConsistentHelmets
 	JappaObserver
 	BetterObservers
 	NoBowlParticles
 	ItemHoldFix
+	ProperBreakParticles
+	HopperBottomFix
+	DirectionalHoppers
 
 Combined packs:
+	DirectionalHoppers+HopperBottomFix+ProperBreakParticles
 	ItemHoldFix+NoBowlParticles
 	BetterObservers+JappaObserver
 	ConsistentHelmets+GoldenCrown
-	DirectionalHoppers+ProperBreakParticles
