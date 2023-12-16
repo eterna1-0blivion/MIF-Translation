@@ -1,16 +1,16 @@
 {
   "cimtb.effective_tool": "Effective Tool: ",
-  "cimtb.harvest_level": "Harvest Level: ",
+  "cimtb.harvest_level": "Harvest Level:",
   "cimtb.harvestable.symbol.false": "§4Can't",
   "cimtb.harvestable.symbol.true": "§2Can",
   "cimtb.harvestable": " Harvest Now",
 
   "cimtb.harvest_level.level.format": "%s (%s)",
-  "cimtb.harvest_level.level.0": "§6Wood",
-  "cimtb.harvest_level.level.1": "§7Stone",
-  "cimtb.harvest_level.level.2": "§fIron",
-  "cimtb.harvest_level.level.3": "§bDiamond",
-  "cimtb.harvest_level.level.4": "§5Netherite",
+  "cimtb.harvest_level.level.0": "§6 Wood",
+  "cimtb.harvest_level.level.1": "§7 Stone",
+  "cimtb.harvest_level.level.2": "§f Iron",
+  "cimtb.harvest_level.level.3": "§b Diamond",
+  "cimtb.harvest_level.level.4": "§5 Netherite",
 
   "cimtb.effective_tool.minecraft.mineable.axe": "Axe",
   "cimtb.effective_tool.minecraft.mineable.hoe": "Hoe",

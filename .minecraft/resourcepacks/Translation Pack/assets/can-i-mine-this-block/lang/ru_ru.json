@@ -1,16 +1,16 @@
 {
   "cimtb.effective_tool": "Инструмент: ",
-  "cimtb.harvest_level": "Уровень: ",
+  "cimtb.harvest_level": "Уровень:",
   "cimtb.harvestable.symbol.false": "§4Нельзя",
   "cimtb.harvestable.symbol.true": "§2Можно",
   "cimtb.harvestable": " добыть сейчас",
 
   "cimtb.harvest_level.level.format": "%s (%s)",
-  "cimtb.harvest_level.level.0": "§6Дерево",
-  "cimtb.harvest_level.level.1": "§7Камень",
-  "cimtb.harvest_level.level.2": "§fЖелезо",
-  "cimtb.harvest_level.level.3": "§bАлмаз",
-  "cimtb.harvest_level.level.4": "§5Незерит",
+  "cimtb.harvest_level.level.0": "§6 Дерево",
+  "cimtb.harvest_level.level.1": "§7 Камень",
+  "cimtb.harvest_level.level.2": "§f Железо",
+  "cimtb.harvest_level.level.3": "§b Алмаз",
+  "cimtb.harvest_level.level.4": "§5 Незерит",
 
   "cimtb.effective_tool.minecraft.mineable.axe": "Топор",
   "cimtb.effective_tool.minecraft.mineable.hoe": "Мотыга",
