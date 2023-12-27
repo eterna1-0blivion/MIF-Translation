@@ -28,7 +28,7 @@
 	"ftbchunks.minimap_zone": "Зона миникарты",
 	"sidebar_button.ftbchunks.chunks": "FTB Chunks",
 	"key.ftbchunks.map": "Открыть карту FTB Chunks",
-	"wilderness": "Пустота",
+	"wilderness": "Бесхозная территория",
 	"ftbchunks.no_server_mod": "Для работы FTB Chunks требуется также мод на сервере!",
 	"ftbchunks.already_claimed": "Чанк уже занят %s",
 	"ftbchunks.gui.claimed": "Занято",
