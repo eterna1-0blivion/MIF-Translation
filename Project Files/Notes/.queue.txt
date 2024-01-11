@@ -1,13 +1,14 @@
 Очередь перевода:
 
-- EMI (Готов на 100%)
-- AE2 + аддоны (Готов на ~95%)
-- Modern Industrialization (Готов на ~90%)
-- Ad Astra (Готов на ~85%)
-- Architect's Palette (Готов на ~50%)
-- Botania (в очереди)
-- Deep Mob Learning (в очереди)
-- Compact Machines (в очереди)
-- Futuristic Blocks (в очереди)
+- EMI (готов на ~99%)
+- AE2 + аддоны (готов на ~95%)
+- Modern Industrialization (готов на ~90%)
+- Mythic Metals (готов на ~90%)
+- Ad Astra (готов на ~85%)
+- Architect's Palette (готов на ~50%)
+- Botania (в процессе)
+- Yttr (в очереди)
+- Spectrum (в очереди)
+- Lootr (в очереди)
 
 (в файлах локализации есть Ачивки, Блоки, Предметы, Теги, Надписи. Отдельно идут книги-путеводители.)
