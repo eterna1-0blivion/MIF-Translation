@@ -15,11 +15,11 @@ $resolve = Read-Host -Prompt "`nCopy one pack or all packs? [O]ne | [A]ll"
 if ($resolve -eq 'O') {
     # Define initialPath and destinationPath for one
     $initialPath = "$PSScriptRoot\.minecraft\resourcepacks\Translation Pack"
-    $destinationPath = "$PSScriptRoot\..\MIF-Restitched\resourcepacks\Translation Pack"
+    $destinationPath = "$PSScriptRoot\..\MIF-Restitched\.minecraft\resourcepacks\Translation Pack"
 } elseif ($resolve -eq 'A') {
     # Define initialPath and destinationPath for all
     $initialPath = "$PSScriptRoot\.minecraft\resourcepacks"
-    $destinationPath = "$PSScriptRoot\..\MIF-Restitched\resourcepacks"
+    $destinationPath = "$PSScriptRoot\..\MIF-Restitched\.minecraft\resourcepacks"
 } else {
     # Script stopped
     Write-Host "`nYou've stopped the script from running." -ForegroundColor Yellow
