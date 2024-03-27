@@ -1,6 +1,6 @@
 {
-  "name": "Equipment",
-  "description": "Tools, Armor and Trinkets.$(br)Everything you can wield or equip to do fun stuff or increase your abilities.",
+  "name": "Снаряжение",
+  "description": "Инструменты, броня и аксессуары.$(br2)Всё, что вы можете взять в руки или экипировать, чтобы сделать что-то интересное или повысить свои способности.",
   "icon": "spectrum:multitool",
   "sortnum": 4
 }

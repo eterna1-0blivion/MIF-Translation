@@ -1,6 +1,6 @@
 {
-  "name": "Pastel Network [PREVIEW]",
-  "description": "Wireless item transfer using Azurite!",
+  "name": "Пастельная Сеть [WIP]",
+  "description": "Беспроводная передача предметов с помощью Азурита!",
   "icon": "spectrum:provider_node",
   "sortnum": 12
 }

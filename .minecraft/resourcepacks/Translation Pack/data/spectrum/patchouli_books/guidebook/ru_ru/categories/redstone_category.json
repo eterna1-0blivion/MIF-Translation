@@ -1,6 +1,6 @@
 {
-  "name": "Redstone Components",
-  "description": "As soon as you held the first gemstone in your hands, you noticed the shards reacting to even the smallest change in their environment.$(br)You can take advantage of these properties by using them in new constructions and connecting those to your primitive dust lines.",
+  "name": "Редстоун-Компоненты",
+  "description": "Как только вы взяли в руки первый драгоценный камень, вы заметили, что осколки реагируют даже на самые незначительные изменения в окружающей среде.$(br)Вы можете воспользоваться этими свойствами, применяя их в новых конструкциях и соединяя их с вашими примитивными линиями из пыли.",
   "icon": "minecraft:redstone",
   "sortnum": 8
 }
